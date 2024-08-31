@@ -1,0 +1,30 @@
+{
+  "name": "unity-ui-image-scaler",
+  "version": "1.0.0",
+  "description": "A Unity component that ensures proper scaling of images on the canvas when the screen match mode is set to 'Expand'.",
+  "author": "RimuruDev",
+  "license": "MIT",
+  "main": "Runtime/UIImageScaler.cs",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RimuruDev/Unity-UIImageScaler.git"
+  },
+  "keywords": [
+    "unity",
+    "ui",
+    "image",
+    "rimurudev",
+    "rimuru-dev",
+    "scaler",
+    "canvas",
+    "aspect ratio",
+    "scaling"
+  ],
+  "bugs": {
+    "email": "rimuru.dev@gmail.com",
+    "url": "https://github.com/RimuruDev/Unity-UIImageScaler/issues"
+  },
+  "homepage": "https://github.com/RimuruDev/Unity-UIImageScaler",
+  "dependencies": {}
+}
